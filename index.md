@@ -1,6 +1,4 @@
----
-title: I am Geoffrey!
----
+
 
 Hello, world! I'm Geoffrey Kithuku, a recent software engineering graduate and junior developer. This is my portfolio where I showcase my projects and share my thoughts on various topics related to software development.
 
